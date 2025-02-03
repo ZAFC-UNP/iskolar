@@ -1,0 +1,15 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "php-flasher/flasher-toastr-symfony": "^2.0",
+        "php-flasher/flasher-toastr-laravel": "^2.0",
+        "php-flasher/flasher-symfony": "^2.0",
+        "php-flasher/flasher-laravel": "^2.0",
+        "php-flasher/flasher": "^2.0",
+        "php-flasher/flasher-sweetalert": "^2.0",
+        "php-flasher/flasher-toastr": "^2.0",
+        "setasign/fpdi": "^2.6",
+        "infobip/infobip-api-php-client": "^5.1",
+        "pear/http_request2": "^2.6"
+    }
+}
