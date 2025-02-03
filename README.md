@@ -23,6 +23,8 @@ iSkolar Online is a scholarship management system designed to streamline the pro
   | Backend | PHP (MySQLi) |
   | Database | MySQL |
   | Server | XAMPP (for local development) |
+  | PhilSMS | SMS Sending API |
+  | PHPMailer | Email Sending |
 
 # 🖥️ Installation Guide
 - Clone the repository:
