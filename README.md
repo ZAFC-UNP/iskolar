@@ -58,3 +58,29 @@ If you’d like to contribute, feel free to submit a pull request or report issu
 - <a href="https://www.facebook.com/zynhelashley.catandijan">ⓕ Facebook</a>
 - 📧 zafcatandijan.ccit@unp.edu.ph
 </details>
+
+#### Sample Credentials
+
+<details>
+  <summary>🔐 Sample Credentials</summary>
+  
+- Username: 21-03561<br>
+- Password: 123 <br>
+- Usertype: Admin <br> <br>
+  
+- Username: 1<br>
+- Password: 123 <br>
+- Usertype: Hold <br> <br>
+
+- Username: 2<br>
+- Password: 123 <br>
+- Usertype: Archived <br> <br>
+
+- Username: 12<br>
+- Password: 123 <br>
+- Usertype: Terminated <br> <br>
+
+- Username: 21-03735<br>
+- Password: 123 <br>
+- Usertype: Archived <br> <br>
+</details>
